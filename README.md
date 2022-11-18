@@ -1,5 +1,6 @@
-## IBM-Project-12792-1659493073 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" height="30" width="30">
-## <h1 align="center">Fertilizers Recommendation System For Disease Prediction <img src="https://media1.giphy.com/media/f9Auu2zwYo1XGTsSPg/giphy.gif?cid=ecf05e47tnkhhm9of0gy1c66gntftbo34jm2iv8h5o4tq63e&rid=giphy.gif&ct=s" width="30px"></h1>
+## IBM-Project-12792-1659493073
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" height="100" width="100">
+<h1 align="center">Fertilizers Recommendation System For Disease Prediction <img src="https://media1.giphy.com/media/f9Auu2zwYo1XGTsSPg/giphy.gif?cid=ecf05e47tnkhhm9of0gy1c66gntftbo34jm2iv8h5o4tq63e&rid=giphy.gif&ct=s" width="30px"></h1>
 <h4 align="center">A Revolutionary Project for the Agricultural Growth 🌷
   </h4>
 <div align="center"><img src="https://as1.ftcdn.net/v2/jpg/02/95/80/92/1000_F_295809244_VuvPwJe6PA9LkI678lxNgZQkvyTSq4XB.jpg" width="500px" height="250px"></div>
